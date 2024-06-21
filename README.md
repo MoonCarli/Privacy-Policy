@@ -1,27 +1,18 @@
 # Moon Music Privacy
+### Last modified: June 21st, 2024
 
-# Welcome 👋
-This Privacy Policy tells you about the information we gather from users and how we handle, store, protect, or share it when you use our Service. While the full document has all the details, here's a simple summary.
+# 1. Overview
+Please read the privacy policy below to learn more about how we collect, use, and share your personal information.
 
-- Your privacy matters to us. We value privacy and are open about our rules.
-- We don't trade your information.
-- We only keep necessary data. We only store what's necessary for the Service to work.
-- You manage your information. You can ask for a copy of your data or request its deletion at any time.
+# 2. Data we Collect
+Moon Music stores user IDs for operational purposes. We do not store your username or profile picture, nor any other personal data about individual users. We only store information related to guilds, such as prefixes, 247 settings, and other parameters. If you wish to request deletion of your data, please contact me, the bot developer and owner, Moon Carli or join the [Support Server](https://discord.gg/wqTgHeJ4Ku).
 
-# Data we collect includes:
-- Server: We store server informations like: Server id for premium system
-- Voice Channel ID: We store Voice Channel ID for 247 command.
-- User ID: We store user ID for premium system and no-prefix system
+# 3. Bot rules
+By using Moon Music, you are agreening to the following rules:
+- No spamming. For us, spamming is doing lots of commands without really using the bot.
+- No advertising.
+- No hacking. We don't allow any hacking.
+- If you find any bug, please contact me, the bot developer and owner, Moon Carli or join the [Support Server](https://discord.gg/wqTgHeJ4Ku).
 
-# Duration of Data Storage:
-Data is retained for as long as necessary for the Service to operate or until a deletion request is made. When the bot is removed from a server, it stops collecting data from that server.
-
-# Data Disclosure:
-Your data is important to us. We do not share it with third parties except for the services listed below
-
-# Online Database: 
-We use MongoDB for storing Moon Music data, ensuring secure and reliable data management for our users. For more information, please refer to [MongoDB's Privacy Policy](https://www.mongodb.com/legal/privacy-policy).
-
-# Data Deletion: How to Make It Happen
-If you want your user data deleted, you can reach out to us in our support [Discord server](https://discord.gg/Hkqc2YJbqR) and messaging a developer with your Discord User ID. Keep in mind, deleting certain data might make some or all features of the Service unavailable. And if you ask to delete premium information, your servers might get deactivated without a refund. You can request data deletion once every 30 days.
-Contact Us for Support
+# Contact Us
+If you have any questions or concerns, you can contact us in [Support Server](https://discord.gg/wqTgHeJ4Ku) or contact me as bot developer and owner Moon Carli.
