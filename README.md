@@ -1,5 +1,5 @@
 # Moon Music Privacy Policy  
-**Last Updated:** November 12, 2024  
+**Last Updated:** May 15, 2025  
 
 ## 0. Definitions  
 - **"Bot"** refers to Moon Music and its services hosted on Discord.  
